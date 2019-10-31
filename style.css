@@ -1,0 +1,52 @@
+.container {
+  width: 900px;
+  height: 350px;
+  border: 1px solid black;
+  margin: 0 auto;
+  background-color: #F3F1F1;
+}
+
+h1 {
+  margin-left: 30px;
+}
+
+.leftside {
+  width: 400px;
+  height: 300px;
+  
+  float: left;
+  margin-left: 30px; 
+}
+
+.rightside {
+  width: 400px;
+  height: 300px;
+  
+  float: right;
+  margin-right: 30px;
+}
+
+.directory {
+  border: 1px solid black;
+  background-color: white;
+}
+
+
+.folders {
+  width: 400px;
+  height: 200px;
+  border: 1px solid #bde9ff;
+  margin-top: 20px;
+  background-color: white;
+}
+
+.item {
+  padding: 5px;
+}
+
+
+
+.description {
+  float: right;
+  color: gray;
+}
